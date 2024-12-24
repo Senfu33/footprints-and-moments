@@ -924,8 +924,6 @@ h6 {
   }
 
 
-}
-
 .footer-bottom {
   display: flex;
   justify-content: center;
@@ -943,4 +941,12 @@ h6 {
   justify-content: center;
   flex-direction: column;
   text-align: center;
+}
+
+.student-footer {
+  display: none;
+}
+
+.js-student-footer {
+  display: block;
 }
